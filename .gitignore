@@ -1,5 +1,5 @@
 *.pyc
 venv/
 .DS_Store
-.ipynb
+*.ipynb
 examples/
